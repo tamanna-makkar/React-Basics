@@ -7,7 +7,7 @@ export default class Header extends React.Component{
   	return (
 		<div>
 		  <header>Header Element</header>
-	
+      <input type="text"/>
 		  <Title/>
 		</div>
 	); 
